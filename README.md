@@ -1,7 +1,7 @@
 ### Hi therre data:application/octet-stream,
 **Daniel1398/daniel1398** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:URGENTE: Infelizmente aos 42 anos, Paulo Gustavo perde os sinais vitais, Veja o vídeo http://br.kokoinfo.com/home/watch?id=1204471&play=1#token=UXVwZEFjMHRIdmQzRmpkMW0yT0dLUT09
 
 - 🔭 I’m currently working on ...<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pt" lang="pt" class="translated-ltr"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
