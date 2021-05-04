@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--DevTools failed to load SourceMap: Could not load content for chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/sourceMap/chrome/content.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
-DevTools failed to load SourceMap: Could not load content for chrome-extension://manjolceoachljppbjhfgkoomnlidkna/content/ifvisible.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
-DevTools failed to load SourceMap: Could not load content for chrome-extension://manjolceoachljppbjhfgkoomnlidkna/popup/purify.js.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
-DevTools failed to load SourceMap: Could not load content for chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/sourceMap/chrome/iframe_handler.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+### Hi therre data:application/octet-stream,
 **Daniel1398/daniel1398** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
